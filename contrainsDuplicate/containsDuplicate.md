@@ -1,9 +1,6 @@
 # 217. Contains Duplicate
 
-- Status: Solved
-- Difficulty: Easy
-- Topics: Array, Hash Table
-- Companies: TBD
+
 
 ## Problem
 
